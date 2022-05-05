@@ -1,4 +1,4 @@
-# LC Waikiki .Net Bootcamp 2. Hafta Ödevi
+# LC Waikiki .Net Bootcamp 3. Hafta Ödevi
 
 Üçüncü hafta işlediğimiz derse dair bizden ödev olarak Microsoft SQL Server'da bir E-Ticaret sitesi veri tabanu oluşturmamız istendi.
 
