@@ -21,7 +21,3 @@ Bu isterlerin tümü gerçekleştirilmiş olup hepsinin Script leri paylaşılm�
 ## LC Waikiki E-Commerce Database Diagram:
 
 ![Diagram](https://github.com/179-LCWaikiki-Net-Bootcamp/UgurSabirer-Week3/blob/master/LCWaikikiECommerceDBDiagram.png)
-
-**Unique Index ile alakalı kullanımı göstermek adına Query'den ekran görüntüsü:**
-
-![Unique](https://user-images.githubusercontent.com/62643473/167013742-741da8d3-8b44-4128-8565-0643653166c7.png)
